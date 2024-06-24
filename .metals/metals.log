@@ -1,0 +1,25 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@19dca6cb]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@64889049]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@19dca6cb]
+2024.06.25 00:01:01 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.25 00:01:02 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_2\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 00:01:05 INFO  Running List(C:\Users\Malin\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.06.25 00:01:05 INFO  Attempting to connect to the build server...
+2024.06.25 00:01:05 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.06.25 00:01:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.25 00:01:07 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_2\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.25 00:01:07 INFO  BSP server: Starting compilation server
+2024.06.25 00:01:09 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_2\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 25, 2024 12:01:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.06.25 00:01:13 INFO  time: Connected to build server in 8.02s
+2024.06.25 00:01:13 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.25 00:01:14 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.06.25 00:01:16 INFO  time: Imported build in 3.39s
+2024.06.25 00:01:21 INFO  time: indexed workspace in 5.09s
+2024.06.25 00:01:58 INFO  Shutting down server
+2024.06.25 00:01:58 INFO  shutting down Metals
+2024.06.25 00:01:58 INFO  Shut down connection with build server.
+2024.06.25 00:01:58 INFO  Exiting server
