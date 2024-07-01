@@ -1,6 +1,6 @@
 import scala.io.StdIn
 
-object ReverseStringApp {
+object ReverseStringObject {
   def main(args: Array[String]): Unit = {
     println("Please enter a string:")
 
