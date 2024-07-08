@@ -401,3 +401,92 @@ scala.meta.tokenizers.TokenizeException: <input>:18: error: illegal character '\
 2024.07.01 20:10:43 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.15s
 Jul 01, 2024 8:11:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.07.01 21:32:11 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_3\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 21:32:12 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_3\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 21:32:12 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_3/q2.scala
+2024.07.01 21:32:12 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:32:12 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 68ms
+2024.07.01 21:32:12 INFO  time: indexed workspace in 0.77s
+2024.07.01 21:32:13 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_3/q2.scala
+2024.07.01 21:34:20 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:34:20 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.42s
+2024.07.01 21:34:29 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:34:29 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.24s
+2024.07.01 21:34:32 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:34:32 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.24s
+2024.07.01 21:34:35 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:34:35 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.21s
+2024.07.01 21:34:37 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:34:37 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.18s
+2024.07.01 21:34:41 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:34:41 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.2s
+2024.07.01 21:34:56 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:34:56 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.15s
+2024.07.01 21:35:00 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:35:00 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.15s
+Jul 01, 2024 9:35:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 563
+2024.07.01 21:35:11 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:35:11 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.18s
+2024.07.01 21:35:14 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:35:14 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.23s
+2024.07.01 21:42:05 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_3\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 21:42:05 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_3\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 21:42:05 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_3/q3.scala
+2024.07.01 21:42:05 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:42:05 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 65ms
+2024.07.01 21:42:05 INFO  time: indexed workspace in 0.72s
+2024.07.01 21:42:06 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_3/q3.scala
+2024.07.01 21:42:09 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:42:09 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.16s
+2024.07.01 21:42:17 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:42:17 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.14s
+2024.07.01 21:42:20 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:42:20 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.14s
+2024.07.01 21:43:21 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_3\q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 21:43:21 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_3\q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.01 21:43:21 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_3/q4.scala
+2024.07.01 21:43:22 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:43:22 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 69ms
+2024.07.01 21:43:21 INFO  time: indexed workspace in 0.73s
+2024.07.01 21:43:23 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_3/q4.scala
+2024.07.01 21:44:40 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:44:40 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.28s
+2024.07.01 21:44:44 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:44:44 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.2s
+2024.07.01 21:44:48 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:44:48 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.2s
+2024.07.01 21:44:52 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:44:52 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.2s
+2024.07.01 21:44:55 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:44:55 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.19s
+2024.07.01 21:44:59 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:44:59 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.21s
+2024.07.01 21:45:06 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.01 21:45:06 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 97ms
+2024.07.01 21:46:12 INFO  Shutting down server
+2024.07.01 21:46:12 INFO  shutting down Metals
+2024.07.01 21:46:12 INFO  Shut down connection with build server.
+2024.07.01 21:46:12 INFO  Exiting server
+2024.07.02 08:35:16 INFO  Started: Metals version 1.3.2 in folders 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@520836e7]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@72c1d38c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@520836e7]
+2024.07.02 08:35:17 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.02 08:35:21 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_3\q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:35:22 INFO  Attempting to connect to the build server...
+2024.07.02 08:35:22 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.02 08:35:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.02 08:35:25 INFO  BSP server: Starting compilation server
+2024.07.02 08:35:25 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_3\q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:35:25 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_3\q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:35:31 INFO  time: Connected to build server in 8.55s
+2024.07.02 08:35:31 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.02 08:35:31 INFO  time: Imported build in 0.16s
+2024.07.02 08:35:33 INFO  time: indexed workspace in 2.45s
+2024.07.02 09:11:05 INFO  Shutting down server
+2024.07.02 09:11:05 INFO  shutting down Metals
+2024.07.02 09:11:05 INFO  Shut down connection with build server.
+2024.07.02 09:11:05 INFO  Exiting server
