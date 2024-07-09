@@ -15,8 +15,6 @@ def displayInventory (array1 : Array[String],array2 : Array[Int]) : Any = {
     }
 }
 
-def addA(x : Array[Int]) : Int = if (x.isEmpty) 0 else x.head + addA(x.tail)
-
 def restockItem(bookName : String, newCount : Int) : Unit = {
     if(bookName.isEmpty() || newCount <= 0)
         println("Invalid Restock Attempt!")

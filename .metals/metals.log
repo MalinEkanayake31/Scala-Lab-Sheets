@@ -536,3 +536,7 @@ INFO: Unsupported notification method: $/setTrace
 2024.07.09 04:44:24 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.5s
 Jul 09, 2024 4:44:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.07.09 04:45:20 INFO  Shutting down server
+2024.07.09 04:45:20 INFO  shutting down Metals
+2024.07.09 04:45:20 INFO  Shut down connection with build server.
+2024.07.09 04:45:20 INFO  Exiting server
