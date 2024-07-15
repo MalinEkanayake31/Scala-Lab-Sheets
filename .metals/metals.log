@@ -597,3 +597,193 @@ WARNING: Unmatched cancel notification for request id 522
 2024.07.09 08:50:33 INFO  shutting down Metals
 2024.07.09 08:50:33 INFO  Shut down connection with build server.
 2024.07.09 08:50:33 INFO  Exiting server
+2024.07.15 19:38:02 INFO  Started: Metals version 1.3.3 in folders 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@61a48696]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@5a947070]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@61a48696]
+2024.07.15 19:38:02 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.15 19:38:03 INFO  Attempting to connect to the build server...
+2024.07.15 19:38:03 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.15 19:38:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:38:04 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 15, 2024 7:38:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Jul 15, 2024 7:38:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Jul 15, 2024 7:38:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.07.15 19:38:06 INFO  BSP server: Starting compilation server
+2024.07.15 19:38:24 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:38:33 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:38:35 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:38:35 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:38:41 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:38:41 INFO  BSP server: For more details, please see 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\stacktraces\1721052521-4486842380004945507.log'
+2024.07.15 19:38:41 INFO  BSP server: Running
+2024.07.15 19:38:41 INFO  BSP server:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:38:41 INFO  BSP server: might give more details.
+2024.07.15 19:38:55 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:38:56 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:38:56 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:38:59 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:38:59 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:01 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:01 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:02 WARN  no build target for: D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala
+2024.07.15 19:39:02 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:02 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:03 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:03 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:39:03 WARN  Retrying connection to the build server scala-cli
+2024.07.15 19:39:03 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.15 19:39:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:39:03 WARN  no build target for: D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala
+2024.07.15 19:39:03 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:03 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:04 INFO  BSP server: Starting compilation server
+2024.07.15 19:39:36 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.15 19:39:37 INFO  no build target found for C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\question1[1].scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:36 INFO  no build target found for C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\question1[1].scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:38 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:39:38 INFO  BSP server: For more details, please see 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\stacktraces\1721052578-2815153099081870915.log'
+2024.07.15 19:39:38 INFO  BSP server: Running
+2024.07.15 19:39:38 INFO  BSP server:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:39:38 INFO  BSP server: might give more details.
+2024.07.15 19:39:38 INFO  time: code lens generation in 1.27s
+2024.07.15 19:39:39 INFO  Running List(C:\Users\Malin\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908, --semantic-db-source-root, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\question1[1].scala)
+2024.07.15 19:39:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:39:40 INFO  Scala CLI: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.15 19:39:40 INFO  Scala CLI: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.15 19:39:40 INFO  Scala CLI: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.15 19:39:43 INFO  no build target found for C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\question1[1].scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:39:46 INFO  Scala CLI: Still downloading:
+2024.07.15 19:39:46 INFO  Scala CLI: https://github.com/coursier/jvm-index/raw/master/index.json (41.64 %, 730944 / 1755223)
+2024.07.15 19:39:46 INFO  Scala CLI: 
+2024.07.15 19:39:52 INFO  Scala CLI: Still downloading:
+2024.07.15 19:39:52 INFO  Scala CLI: https://github.com/coursier/jvm-index/raw/master/index.json (89.60 %, 1572672 / 1755223)
+2024.07.15 19:39:52 INFO  Scala CLI: 
+2024.07.15 19:39:54 INFO  Scala CLI: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.15 19:39:55 INFO  Scala CLI: Starting compilation server
+2024.07.15 19:40:03 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:40:03 WARN  Retrying connection to the build server scala-cli
+2024.07.15 19:40:03 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.15 19:40:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:40:04 INFO  BSP server: Starting compilation server
+2024.07.15 19:40:06 INFO  no build target found for C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\question1[1].scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:40:28 INFO  Scala CLI: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:40:28 INFO  Scala CLI: For more details, please see 'C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908\.scala-build\stacktraces\1721052628-2721666828785661999.log'
+2024.07.15 19:40:28 INFO  Scala CLI: Running
+2024.07.15 19:40:28 INFO  Scala CLI:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:40:28 INFO  Scala CLI: might give more details.
+2024.07.15 19:40:38 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:40:38 INFO  BSP server: For more details, please see 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\stacktraces\1721052638-16665171814070013958.log'
+2024.07.15 19:40:38 INFO  BSP server: Running
+2024.07.15 19:40:38 INFO  BSP server:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:40:38 INFO  BSP server: might give more details.
+2024.07.15 19:40:39 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:40:39 WARN  Retrying connection to the build server Scala CLI
+2024.07.15 19:40:39 INFO  Running List(C:\Users\Malin\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908, --semantic-db-source-root, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\question1[1].scala)
+2024.07.15 19:40:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:40:40 INFO  Scala CLI: Starting compilation server
+2024.07.15 19:41:03 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:41:03 WARN  Retrying connection to the build server scala-cli
+2024.07.15 19:41:03 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.15 19:41:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:41:04 INFO  BSP server: Starting compilation server
+2024.07.15 19:41:14 INFO  Scala CLI: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:41:14 INFO  Scala CLI: For more details, please see 'C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908\.scala-build\stacktraces\1721052674-9194852122886769915.log'
+2024.07.15 19:41:14 INFO  Scala CLI: Running
+2024.07.15 19:41:14 INFO  Scala CLI:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:41:14 INFO  Scala CLI: might give more details.
+2024.07.15 19:41:38 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:41:38 INFO  BSP server: For more details, please see 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\stacktraces\1721052698-15550573581429781614.log'
+2024.07.15 19:41:38 INFO  BSP server: Running
+2024.07.15 19:41:38 INFO  BSP server:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:41:38 INFO  BSP server: might give more details.
+2024.07.15 19:41:39 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:41:39 WARN  Retrying connection to the build server Scala CLI
+2024.07.15 19:41:39 INFO  Running List(C:\Users\Malin\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908, --semantic-db-source-root, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\question1[1].scala)
+2024.07.15 19:41:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:41:40 INFO  Scala CLI: Starting compilation server
+2024.07.15 19:42:03 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:42:03 WARN  Retrying connection to the build server scala-cli
+2024.07.15 19:42:03 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.15 19:42:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:42:04 INFO  BSP server: Starting compilation server
+2024.07.15 19:42:14 INFO  Scala CLI: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:42:14 INFO  Scala CLI: For more details, please see 'C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908\.scala-build\stacktraces\1721052734-11031538615758526320.log'
+2024.07.15 19:42:14 INFO  Scala CLI: Running
+2024.07.15 19:42:14 INFO  Scala CLI:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:42:14 INFO  Scala CLI: might give more details.
+2024.07.15 19:42:38 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:42:38 INFO  BSP server: For more details, please see 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\stacktraces\1721052758-9320911465330414106.log'
+2024.07.15 19:42:38 INFO  BSP server: Running
+2024.07.15 19:42:38 INFO  BSP server:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:42:38 INFO  BSP server: might give more details.
+2024.07.15 19:42:39 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:42:39 WARN  Retrying connection to the build server Scala CLI
+2024.07.15 19:42:39 INFO  Running List(C:\Users\Malin\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908, --semantic-db-source-root, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\question1[1].scala)
+2024.07.15 19:42:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:42:40 INFO  Scala CLI: Starting compilation server
+2024.07.15 19:43:03 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:43:03 WARN  Retrying connection to the build server scala-cli
+2024.07.15 19:43:03 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.15 19:43:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:43:04 INFO  BSP server: Starting compilation server
+2024.07.15 19:43:14 INFO  Scala CLI: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:43:14 INFO  Scala CLI: For more details, please see 'C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908\.scala-build\stacktraces\1721052794-5763079923524286427.log'
+2024.07.15 19:43:14 INFO  Scala CLI: Running
+2024.07.15 19:43:14 INFO  Scala CLI:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:43:14 INFO  Scala CLI: might give more details.
+2024.07.15 19:43:38 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:43:38 INFO  BSP server: For more details, please see 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\stacktraces\1721052818-15026910796581877654.log'
+2024.07.15 19:43:38 INFO  BSP server: Running
+2024.07.15 19:43:38 INFO  BSP server:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:43:38 INFO  BSP server: might give more details.
+2024.07.15 19:43:39 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:43:39 WARN  Retrying connection to the build server Scala CLI
+2024.07.15 19:43:39 INFO  Running List(C:\Users\Malin\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908, --semantic-db-source-root, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\question1[1].scala)
+2024.07.15 19:43:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:43:40 INFO  Scala CLI: Starting compilation server
+2024.07.15 19:44:03 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:44:03 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:737)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:615)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.07.15 19:44:03 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_4\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.15 19:44:14 INFO  Scala CLI: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:44:14 INFO  Scala CLI: For more details, please see 'C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908\.scala-build\stacktraces\1721052854-337337779047325442.log'
+2024.07.15 19:44:14 INFO  Scala CLI: Running
+2024.07.15 19:44:14 INFO  Scala CLI:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:44:14 INFO  Scala CLI: might give more details.
+2024.07.15 19:44:39 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:44:39 WARN  Retrying connection to the build server Scala CLI
+2024.07.15 19:44:39 INFO  Running List(C:\Users\Malin\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908, --semantic-db-source-root, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT, C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\question1[1].scala)
+2024.07.15 19:44:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Malin\AppData\Local\Microsoft\Windows\INetCache\IE\34M7J4QT\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.15 19:44:40 INFO  Scala CLI: Starting compilation server
+2024.07.15 19:45:14 INFO  Scala CLI: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.07.15 19:45:14 INFO  Scala CLI: For more details, please see 'C:\Users\Malin\AppData\Local\Temp\metals-scala-cli2451425837521119908\.scala-build\stacktraces\1721052914-11114092803380023916.log'
+2024.07.15 19:45:14 INFO  Scala CLI: Running
+2024.07.15 19:45:14 INFO  Scala CLI:   C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.07.15 19:45:14 INFO  Scala CLI: might give more details.
+2024.07.15 19:45:39 ERROR Timeout waiting for 'build/initialize' response
+2024.07.15 19:45:39 ERROR Error starting Scala CLI
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:737)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:615)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
