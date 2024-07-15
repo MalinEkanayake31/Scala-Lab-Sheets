@@ -563,3 +563,37 @@ WARNING: Unmatched cancel notification for request id 35
 2024.07.09 08:12:46 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 5.44s
 Jul 09, 2024 8:14:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.07.09 08:17:57 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:17:57 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.57s
+2024.07.09 08:17:58 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:17:58 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.28s
+2024.07.09 08:18:21 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:18:21 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.98s
+2024.07.09 08:18:28 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:18:28 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.58s
+2024.07.09 08:18:31 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:18:31 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.58s
+2024.07.09 08:18:33 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:18:33 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.55s
+2024.07.09 08:18:35 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:18:37 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 1.14s
+2024.07.09 08:18:37 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:18:37 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.5s
+2024.07.09 08:19:01 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:19:01 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.18s
+2024.07.09 08:19:11 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:19:11 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.14s
+2024.07.09 08:19:15 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:19:15 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.41s
+Jul 09, 2024 8:21:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 522
+2024.07.09 08:21:06 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:21:06 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.41s
+2024.07.09 08:40:15 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:40:17 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 1.31s
+2024.07.09 08:41:19 INFO  compiling scala-lab-sheets_f4dd477a3a (1 scala source)
+2024.07.09 08:41:19 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.57s
+2024.07.09 08:50:33 INFO  Shutting down server
+2024.07.09 08:50:33 INFO  shutting down Metals
+2024.07.09 08:50:33 INFO  Shut down connection with build server.
+2024.07.09 08:50:33 INFO  Exiting server
