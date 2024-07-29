@@ -787,3 +787,103 @@ java.util.concurrent.TimeoutException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
 	at java.lang.Thread.run(Thread.java:833)
 
+2024.07.16 08:15:28 INFO  Started: Metals version 1.3.3 in folders 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@17d97063]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4e5f86]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@17d97063]
+2024.07.16 08:15:32 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 08:15:34 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 08:15:34 INFO  Attempting to connect to the build server...
+2024.07.16 08:15:34 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.16 08:15:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.16 08:15:37 INFO  BSP server: Starting compilation server
+2024.07.16 08:15:43 INFO  time: Connected to build server in 8.92s
+2024.07.16 08:15:43 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.16 08:15:43 INFO  time: Imported build in 0.14s
+2024.07.16 08:15:43 INFO  running doctor check
+2024.07.16 08:15:43 INFO  java targets: Scala-Lab-Sheets_f4dd477a3a, Scala-Lab-Sheets_f4dd477a3a-test
+2024.07.16 08:15:44 INFO  compiling scala-lab-sheets_f4dd477a3a (3 scala sources)
+2024.07.16 08:15:47 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 08:15:51 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 7s
+2024.07.16 08:15:51 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:15:52 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.81s
+2024.07.16 08:16:01 INFO  time: indexed workspace in 17s
+2024.07.16 08:16:01 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:16:01 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.72s
+2024.07.16 08:16:02 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:16:02 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.52s
+Jul 16, 2024 8:17:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.16 08:27:03 INFO  Shutting down server
+2024.07.16 08:27:03 INFO  shutting down Metals
+2024.07.16 08:27:03 INFO  Shut down connection with build server.
+2024.07.16 08:27:03 INFO  Exiting server
+2024.07.16 08:29:25 INFO  Started: Metals version 1.3.3 in folders 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2ffec4ea]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@53f50919]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2ffec4ea]
+2024.07.16 08:29:28 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 08:29:29 INFO  Attempting to connect to the build server...
+2024.07.16 08:29:29 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.16 08:29:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.16 08:29:31 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 08:29:34 INFO  time: Connected to build server in 5.12s
+2024.07.16 08:29:34 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.16 08:29:34 INFO  time: Imported build in 0.11s
+2024.07.16 08:29:34 INFO  running doctor check
+2024.07.16 08:29:34 INFO  java targets: Scala-Lab-Sheets_f4dd477a3a, Scala-Lab-Sheets_f4dd477a3a-test
+2024.07.16 08:29:35 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:29:35 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.58s
+2024.07.16 08:29:35 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:29:36 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.45s
+2024.07.16 08:29:38 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 08:29:38 INFO  time: indexed workspace in 5.01s
+2024.07.16 08:29:40 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:29:40 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.33s
+2024.07.16 08:29:40 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:29:41 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.34s
+2024.07.16 08:29:48 INFO  Shutting down server
+2024.07.16 08:29:48 INFO  shutting down Metals
+2024.07.16 08:29:48 INFO  Shut down connection with build server.
+2024.07.16 08:29:48 INFO  Exiting server
+2024.07.16 08:35:58 INFO  Started: Metals version 1.3.3 in folders 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@60d92711]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@147fb41e]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@60d92711]
+2024.07.16 08:35:58 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 08:36:00 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 08:36:01 INFO  Attempting to connect to the build server...
+2024.07.16 08:36:01 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.16 08:36:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.16 08:36:06 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 08:36:06 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 08:36:07 INFO  time: Connected to build server in 5.62s
+2024.07.16 08:36:07 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.16 08:36:07 INFO  time: Imported build in 0.16s
+2024.07.16 08:36:06 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_5\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 08:36:07 INFO  running doctor check
+2024.07.16 08:36:07 INFO  java targets: Scala-Lab-Sheets_f4dd477a3a, Scala-Lab-Sheets_f4dd477a3a-test
+2024.07.16 08:36:07 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:36:07 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.8s
+2024.07.16 08:36:07 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:36:08 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.31s
+2024.07.16 08:36:19 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 08:36:19 INFO  time: indexed workspace in 12s
+2024.07.16 08:36:20 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:36:20 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.35s
+2024.07.16 08:36:20 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:36:21 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.36s
+2024.07.16 08:36:21 INFO  compiling scala-lab-sheets_f4dd477a3a (4 scala sources)
+2024.07.16 08:36:21 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.3s
+Jul 16, 2024 8:37:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+2024.07.16 08:43:29 INFO  Shutting down server
+2024.07.16 08:43:29 INFO  shutting down Metals
+2024.07.16 08:43:29 INFO  Shut down connection with build server.
+2024.07.16 08:43:29 INFO  Exiting server
