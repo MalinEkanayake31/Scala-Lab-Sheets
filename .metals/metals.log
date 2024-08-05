@@ -1329,3 +1329,68 @@ WARNING: Unmatched cancel notification for request id 3616
 2024.07.29 07:33:19 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.15s
 Jul 29, 2024 7:33:44 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2024.07.29 07:34:35 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_6\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.29 07:34:36 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.29 07:34:36 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.17s
+2024.07.29 07:34:36 INFO  time: Imported build in 0.73s
+2024.07.29 07:34:36 INFO  running doctor check
+2024.07.29 07:34:36 INFO  java targets: Scala-Lab-Sheets_f4dd477a3a, Scala-Lab-Sheets_f4dd477a3a-test
+2024.07.29 07:34:36 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.29 07:34:36 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.23s
+2024.07.29 07:34:37 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_6/q2.scala
+2024.07.29 07:34:38 INFO  time: indexed workspace in 1.6s
+2024.07.29 07:34:38 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.29 07:34:38 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.16s
+2024.07.29 07:34:38 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_6/q2.scala
+2024.07.29 08:07:16 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.29 08:07:16 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.28s
+2024.07.29 08:07:36 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.29 08:07:36 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.24s
+2024.07.29 08:08:11 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.29 08:08:11 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.19s
+2024.07.29 08:08:38 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.29 08:08:38 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.21s
+2024.07.29 08:08:47 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.29 08:08:47 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.2s
+2024.07.29 08:08:52 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.29 08:08:52 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.19s
+2024.07.29 08:10:29 INFO  Shutting down server
+2024.07.29 08:10:29 INFO  shutting down Metals
+2024.07.29 08:10:29 INFO  Shut down connection with build server.
+2024.07.29 08:10:29 INFO  Exiting server
+2024.07.30 08:13:17 INFO  Started: Metals version 1.3.4 in folders 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@3c950b5c]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@93bba8c]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@3c950b5c]
+2024.07.30 08:13:17 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 08:13:19 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_6\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 08:13:20 INFO  Attempting to connect to the build server...
+2024.07.30 08:13:20 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets)
+2024.07.30 08:13:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.30 08:13:24 INFO  BSP server: Starting compilation server
+2024.07.30 08:13:34 INFO  time: Connected to build server in 14s
+2024.07.30 08:13:34 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.30 08:13:34 INFO  time: Imported build in 0.18s
+2024.07.30 08:13:34 INFO  running doctor check
+2024.07.30 08:13:34 INFO  java targets: Scala-Lab-Sheets_f4dd477a3a, Scala-Lab-Sheets_f4dd477a3a-test
+2024.07.30 08:13:35 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.30 08:13:38 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 08:13:39 INFO  time: indexed workspace in 5.1s
+2024.07.30 08:13:41 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 5.82s
+2024.07.30 08:13:41 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.30 08:13:42 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 1.15s
+2024.07.30 08:13:42 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.30 08:13:44 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 1.3s
+2024.07.30 08:13:44 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.30 08:13:45 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.72s
+2024.07.30 08:13:45 INFO  compiling scala-lab-sheets_f4dd477a3a (6 scala sources)
+2024.07.30 08:13:47 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.72s
+2024.07.30 08:27:52 INFO  Shutting down server
+2024.07.30 08:27:52 INFO  shutting down Metals
+2024.07.30 08:27:52 INFO  Shut down connection with build server.
+2024.07.30 08:27:52 INFO  BSP server: Jul 30, 2024 8:27:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.07.30 08:27:52 INFO  BSP server: WARNING: Notification threw an exception: {
+2024.07.30 08:27:52 INFO  BSP server:   "jsonrpc": "2.0",
+2024.07.30 08:27:52 INFO  Exiting server
