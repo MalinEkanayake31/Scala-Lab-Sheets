@@ -1,4 +1,4 @@
-object question_8_02{
+object q2{
     def main(args: Array[String]): Unit = {
         val multifyOf3: Int => Boolean = (x: Int) => x % 3 == 0
         val multifyOf5: Int => Boolean = (x: Int) => x % 5 == 0

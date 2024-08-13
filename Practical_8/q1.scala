@@ -1,4 +1,6 @@
-object question_8_01{
+import scala.io.StdIn
+
+object q1{
     
     def encrypt(text: String , shifter: Int): String = {
         text.map(c => (c + shifter).toChar)
@@ -9,7 +11,7 @@ object question_8_01{
     }
 
     def main(args: Array[String]): Unit={
-        val text = "Hello Scala"
+        val text : String = StdIn.readLine()
         println(s"Original Text : ${text}")
         val encrypted_text = encrypt(text , 1) 
         println(s"Encrypted Text : ${encrypted_text}")
