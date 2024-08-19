@@ -1527,3 +1527,8 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@74005ce
 2024.08.13 09:07:03 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.69s
 2024.08.13 09:07:05 INFO  compiling scala-lab-sheets_f4dd477a3a (21 scala sources)
 2024.08.13 09:07:05 INFO  time: compiled Scala-Lab-Sheets_f4dd477a3a in 0.74s
+2024.08.13 09:07:29 INFO  Shutting down server
+2024.08.13 09:07:29 INFO  shutting down Metals
+2024.08.13 09:07:29 INFO  Shut down connection with build server.
+2024.08.13 09:07:29 INFO  BSP server: Aug 13, 2024 9:07:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.08.13 09:07:29 INFO  Exiting server
