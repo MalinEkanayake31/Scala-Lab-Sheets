@@ -31,3 +31,13 @@ class Account(private var balance: Double) {
 
   override def toString: String = f"Account balance: $$${balance}%.2f"
 }
+
+object Main extends App {
+  val acc1 = new Account(100.0)
+  val acc2 = new Account(50.0)
+  acc1.deposit(50.0)
+  acc1.withdraw(30.0)
+  acc1.transfer(50.0, acc2)
+  println(acc1)
+  println(acc2)
+}

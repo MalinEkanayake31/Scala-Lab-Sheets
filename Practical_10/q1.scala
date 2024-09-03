@@ -14,3 +14,9 @@ class Rational(n: Int, d: Int) {
 
   def subtract(r: Rational) = new Rational(numer * r.denom - r.numer * denom, denom * r.denom)
 }
+
+object Main extends App {
+  val r1 = new Rational(3, 4)
+  val r2 = new Rational(5, 6)
+  println(r1.subtract(r2))
+}
