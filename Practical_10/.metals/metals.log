@@ -1,0 +1,103 @@
+2024.09.03 08:12:04 INFO  Started: Metals version 1.3.5 in folders 'D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10' for client Visual Studio Code 1.92.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7e6ff87f]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7434a52f]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7e6ff87f]
+2024.09.03 08:12:04 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.03 08:12:07 WARN  no build target for: D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q1.scala
+2024.09.03 08:12:07 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 08:12:07 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 08:12:07 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 08:12:10 INFO  Running List(C:\Users\Malin\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10)
+2024.09.03 08:12:10 INFO  Attempting to connect to the build server...
+2024.09.03 08:12:10 INFO  Running BSP server List(C:\Users\Malin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\.scala-build\ide-options-v2.json, --json-launcher-options, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\.scala-build\ide-launcher-options.json, --envs-file, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\.scala-build\ide-envs.json, D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10)
+2024.09.03 08:12:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\.metals\bsp.trace.json or C:\Users\Malin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.03 08:12:14 INFO  BSP server: Starting compilation server
+2024.09.03 08:12:17 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 08:12:20 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 08:12:20 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_10/q2.scala
+2024.09.03 08:12:23 INFO  time: Connected to build server in 12s
+2024.09.03 08:12:23 INFO  Connected to Build server: scala-cli v1.3.2
+2024.09.03 08:12:24 INFO  compiling practical_10_f4dd477a3a (2 scala sources)
+2024.09.03 08:12:30 INFO  time: Imported build in 6.42s
+2024.09.03 08:12:30 INFO  running doctor check
+2024.09.03 08:12:30 INFO  java targets: Practical_10_f4dd477a3a-test, Practical_10_f4dd477a3a
+2024.09.03 08:12:35 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.03 08:12:38 INFO  time: indexed workspace in 8.33s
+2024.09.03 08:12:39 INFO  compiling practical_10_f4dd477a3a (1 scala source)
+2024.09.03 08:12:41 INFO  time: compiled Practical_10_f4dd477a3a in 1.29s
+2024.09.03 08:12:46 INFO  compiling practical_10_f4dd477a3a (2 scala sources)
+2024.09.03 08:12:46 INFO  time: compiled Practical_10_f4dd477a3a in 0.6s
+Sep 03, 2024 8:13:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+2024.09.03 08:13:17 INFO  compiling practical_10_f4dd477a3a (2 scala sources)
+2024.09.03 08:13:17 INFO  time: compiled Practical_10_f4dd477a3a in 0.3s
+2024.09.03 08:13:53 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 08:13:53 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 08:13:53 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_10/q3.scala
+2024.09.03 08:13:53 INFO  running doctor check
+2024.09.03 08:13:53 INFO  java targets: Practical_10_f4dd477a3a-test, Practical_10_f4dd477a3a
+2024.09.03 08:13:53 INFO  compiling practical_10_f4dd477a3a (1 scala source)
+2024.09.03 08:13:53 INFO  time: compiled Practical_10_f4dd477a3a in 0.14s
+2024.09.03 08:13:53 INFO  compiling practical_10_f4dd477a3a (3 scala sources)
+2024.09.03 08:13:53 INFO  time: compiled Practical_10_f4dd477a3a in 0.28s
+2024.09.03 08:13:53 INFO  compiling practical_10_f4dd477a3a (1 scala source)
+2024.09.03 08:13:53 INFO  time: compiled Practical_10_f4dd477a3a in 0.14s
+2024.09.03 08:13:53 INFO  compiling practical_10_f4dd477a3a (3 scala sources)
+2024.09.03 08:13:54 INFO  time: compiled Practical_10_f4dd477a3a in 0.31s
+2024.09.03 08:13:55 INFO  time: indexed workspace in 1.65s
+2024.09.03 08:13:54 INFO  compiling practical_10_f4dd477a3a (1 scala source)
+2024.09.03 08:13:54 INFO  time: compiled Practical_10_f4dd477a3a in 87ms
+2024.09.03 08:13:54 INFO  compiling practical_10_f4dd477a3a (3 scala sources)
+2024.09.03 08:13:55 INFO  time: compiled Practical_10_f4dd477a3a in 0.21s
+2024.09.03 08:13:55 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_10/q3.scala
+2024.09.03 08:14:12 INFO  compiling practical_10_f4dd477a3a (1 scala source)
+2024.09.03 08:14:12 INFO  time: compiled Practical_10_f4dd477a3a in 0.77s
+2024.09.03 08:14:12 INFO  compiling practical_10_f4dd477a3a (3 scala sources)
+2024.09.03 08:14:13 INFO  time: compiled Practical_10_f4dd477a3a in 0.32s
+2024.09.03 08:14:33 INFO  compiling practical_10_f4dd477a3a (1 scala source)
+2024.09.03 08:14:33 INFO  time: compiled Practical_10_f4dd477a3a in 0.45s
+2024.09.03 08:14:33 INFO  compiling practical_10_f4dd477a3a (3 scala sources)
+2024.09.03 08:14:33 INFO  time: compiled Practical_10_f4dd477a3a in 0.24s
+Sep 03, 2024 8:14:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.09.03 08:14:57 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 08:14:57 INFO  running doctor check
+2024.09.03 08:14:57 INFO  java targets: Practical_10_f4dd477a3a-test, Practical_10_f4dd477a3a
+2024.09.03 08:14:58 INFO  compiling practical_10_f4dd477a3a (2 scala sources)
+2024.09.03 08:14:58 INFO  time: compiled Practical_10_f4dd477a3a in 0.43s
+2024.09.03 08:14:58 INFO  compiling practical_10_f4dd477a3a (2 scala sources)
+2024.09.03 08:14:58 INFO  time: compiled Practical_10_f4dd477a3a in 0.21s
+2024.09.03 08:14:58 INFO  compiling practical_10_f4dd477a3a (2 scala sources)
+2024.09.03 08:14:59 INFO  time: compiled Practical_10_f4dd477a3a in 0.5s
+2024.09.03 08:14:59 INFO  compiling practical_10_f4dd477a3a (2 scala sources)
+2024.09.03 08:14:59 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_10/q4.scala
+2024.09.03 08:14:59 INFO  time: compiled Practical_10_f4dd477a3a in 0.27s
+2024.09.03 08:14:59 INFO  time: indexed workspace in 1.67s
+2024.09.03 08:14:59 INFO  compiling practical_10_f4dd477a3a (2 scala sources)
+2024.09.03 08:15:00 INFO  time: compiled Practical_10_f4dd477a3a in 0.41s
+2024.09.03 08:15:00 INFO  compiling practical_10_f4dd477a3a (2 scala sources)
+2024.09.03 08:15:00 INFO  time: compiled Practical_10_f4dd477a3a in 0.17s
+2024.09.03 08:15:00 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_10/q4.scala
+2024.09.03 08:15:22 INFO  compiling practical_10_f4dd477a3a (2 scala sources)
+2024.09.03 08:15:23 INFO  time: compiled Practical_10_f4dd477a3a in 1.12s
+2024.09.03 08:15:44 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q5.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 08:15:44 INFO  no build target found for D:\university ucsc 2nd year\semester 1 year 2\SCS2204 Functional Programming\scala\Scala-Lab-Sheets\Practical_10\q5.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.03 08:15:44 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_10/q5.scala
+2024.09.03 08:15:44 INFO  running doctor check
+2024.09.03 08:15:44 INFO  java targets: Practical_10_f4dd477a3a-test, Practical_10_f4dd477a3a
+2024.09.03 08:15:44 INFO  compiling practical_10_f4dd477a3a (5 scala sources)
+2024.09.03 08:15:44 INFO  time: compiled Practical_10_f4dd477a3a in 0.74s
+2024.09.03 08:15:44 INFO  compiling practical_10_f4dd477a3a (5 scala sources)
+2024.09.03 08:15:46 INFO  time: compiled Practical_10_f4dd477a3a in 0.74s
+2024.09.03 08:15:46 INFO  time: indexed workspace in 1.83s
+2024.09.03 08:15:46 INFO  compiling practical_10_f4dd477a3a (5 scala sources)
+2024.09.03 08:15:46 INFO  time: compiled Practical_10_f4dd477a3a in 0.6s
+2024.09.03 08:15:47 WARN  Could not find semantic tokens for: file:///D:/university%20ucsc%202nd%20year/semester%201%20year%202/SCS2204%20Functional%20Programming/scala/Scala-Lab-Sheets/Practical_10/q5.scala
+2024.09.03 08:16:01 INFO  compiling practical_10_f4dd477a3a (5 scala sources)
+2024.09.03 08:16:01 INFO  time: compiled Practical_10_f4dd477a3a in 0.54s
+2024.09.03 08:16:09 INFO  Shutting down server
+2024.09.03 08:16:09 INFO  shutting down Metals
+2024.09.03 08:16:09 INFO  Shut down connection with build server.
+2024.09.03 08:16:09 INFO  Exiting server
